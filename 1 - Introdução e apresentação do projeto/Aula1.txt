@@ -1,0 +1,3 @@
+Nesta aula temos um resumo do curso
+	Explicação do desafio de projeto
+	Requisitos básicos para entendimento do curso
